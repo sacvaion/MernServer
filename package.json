@@ -4,7 +4,7 @@
   "description": "MERN API para MERN TASKS",
   "main": "index.js",
   "scripts": {
-    "start": "nde .",
+    "start": "node .",
     "dev": "nodemon ."
   },
   "author": "Carlos Adolfo Siabato",
