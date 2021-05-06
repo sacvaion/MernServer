@@ -9,7 +9,7 @@ const app = express();
 conectarDB();
 
 const allowedOrigins = ['http://localhost:3000',
-  'https://clever-mayer-d70b5f.netlify.app'];
+  'https://proyecto-casc.netlify.app/'];
 app.use(cors({
   origin: function(origin, callback){
     // allow requests with no origin
